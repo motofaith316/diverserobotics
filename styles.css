@@ -1,0 +1,80 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    color: snow;
+    font-size: 22px;
+    background-color: black;
+    background-image: url('./images/circuit.jfif');
+    }
+nav{
+    display: flex;
+    width: 100%;
+   
+    
+    
+}
+.nav{
+    display: inline-flex;
+}
+.nav li{
+    display: inline-flex;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+}
+#jarvis{
+    float: right;
+}
+.bodyStart{
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+
+.team{
+    display: flex;
+    justify-content: space-around;
+}
+.Rick{
+    display: inline-flex;
+    height: 15rem;
+    position: relative
+ }
+
+ .Jenna{
+    display: inline-flex;
+    height: 15rem;
+ }
+ .Henry{
+    display: inline-flex;
+    height: 15rem;
+ }
+ .info{
+     display: flex;
+     justify-content: space-around;
+     width: 100%;
+ }
+ .image{
+     display: flex;
+     justify-content: space-around;
+     padding: 5rem;
+ }
+ .hand{
+     display: flex;
+     justify-content: center;
+     
+ }
+ .hand1{
+     height: 20rem;
+     padding: 3 rem;
+ }
+ footer{
+     height: 5rem;
+     width: 100%;
+     background-color: black;
+     display: flex;
+     justify-content: left;
+     align-items: center;
+     padding: 5rem;
+ }
